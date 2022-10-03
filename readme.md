@@ -3,9 +3,7 @@
 <h3 align="center">A passionate Fullstack developer from United Kingdom</h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fpowerofsin%2Fart%2FDaily-Always-gets-up-701185782&psig=AOvVaw3dXzPwT55gdy1nWPaIlRXn&ust=1664718585841000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJjkj5OWv_oCFQAAAAAdAAAAABAs"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harry244&label=Profile%20views&color=0e75b6&style=flat" alt="harry244" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harry244" alt="harry244" /></a> </p>
 
 - 🌱 I’m currently learning **Java & JS and i know a littlebit python**
 
